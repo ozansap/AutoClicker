@@ -1,9 +1,5 @@
 # Auto Clicker
 
-> ### **If you are an employer:**
-> AutoHotkey is a software used to create automated computer inputs. It has its own programming language which was unlike anything I had experience with. I had to read the [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm), which is pretty clear and detailed. **The goal of this project was to introduce myself to AutoHotkey meanwhile creating a script that helps me with certain video games.**  
-> Only relevant part is [AutoClicker.ahk](AutoClicker.ahk) which includes all the code.
-
 Here is a AutoHotkey script that lets you choose an amount of clicks and the interval between them to click that many times automatically. I used this to level up my skills in video game **Valheim**.
 
 ## How to use:
